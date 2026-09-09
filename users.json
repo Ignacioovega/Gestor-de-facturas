@@ -1,8 +1,0 @@
-{
-  "admin": {
-    "salt": "4565478da1b67fb40d513992fa8dbe05",
-    "hash": "beebb5859441f990a5d621d367bd7dbd003c7dbb9c9913dad5a5eb92983c2ee4",
-    "role": "admin",
-    "is_default": true
-  }
-}
